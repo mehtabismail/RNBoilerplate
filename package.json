@@ -1,0 +1,8 @@
+{
+  "name": "RNBoilerplate",
+  "version": "0.0.1",
+  "description": "React Native Boilerplate",
+  "repository": "https://github.com/mehtabismail/RNBoilerplate.git",
+  "author": "Mehtab Ismail <mehtab.16465@gmail.com>",
+  "license": "MIT"
+}
