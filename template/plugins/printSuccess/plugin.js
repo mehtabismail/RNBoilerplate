@@ -9,7 +9,7 @@ module.exports = {
 			);
 			console.log(
 				`${green(
-					'                                                       	\n' +
+					'                                                       		\n' +
 						'	M     M   EEEEE   H   H   TTTTTTT   AAA    BBBBB 	\n' +
 						'	MM   MM   E       H   H      T     A   A   B   B 	\n' + 
 						'	M M M M   EEEEE   HHHHH      T     AAAAA   BBBBB 	\n' +  
@@ -17,9 +17,9 @@ module.exports = {
 						'	M     M   EEEEE   H   H      T     A   A   BBBBB 	\n' +  
 						'													 	\n' +
 						'	IIIIIII  SSSSSS   M     M    AAA   IIIII  LL     	\n' +     
-						'      I     S        MM   MM   A   A    I    LL     	\n' +    
-						'	   I     SSSSSS   M M M M   AAAAA    I    LL        \n' +  
-						'	   I          S   M  M  M   A   A    I    LL        \n' +
+						'      	   I     S        MM   MM   A   A    I    LL     	\n' +    
+						'	   I     SSSSSS   M M M M   AAAAA    I    LL        	\n' +  
+						'	   I          S   M  M  M   A   A    I    LL        	\n' +
 						'	IIIIIII  SSSSSS   M     M   A   A  IIIII  LLLLLLL 	\n' +
 					'															'
 				)}`);
