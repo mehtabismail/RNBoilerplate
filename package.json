@@ -1,8 +1,32 @@
 {
   "name": "{{name}}",
-  "version": "0.0.1",
-  "description": "React Native Boilerplate",
-  "repository": "https://github.com/mehtabismail/RNBoilerplate.git",
+  "version": "0.0.2",
+  "description": "React Native Boilerplate by MEHTAB",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehtabismail/RNBoilerplate.git"
+  },
   "author": "Mehtab Ismail <mehtab.16465@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehtabismail/RNBoilerplate/issues"
+  },
+  "homepage": "https://github.com/mehtabismail/RNBoilerplate.git",
+  "main": "post-init.script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "boilerplate",
+    "RNBoilerplate",
+    "react-native",
+    "starter-kit"
+  ],
+  "dependencies": {
+    "kleur": "^4.1.4",
+    "prompts": "^2.4.1"
+  },
+  "devDependencies": {}
 }
